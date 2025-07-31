@@ -1,0 +1,12 @@
+Let’s improve this resume bullet point by thinking it through step by step.
+
+What is the main action?  
+What tool or skill is used?  
+What was the impact or result?
+
+Now rewrite the bullet based on the answers above, using a strong action verb, concise language (12–20 words), and professional tone. Include measurable outcomes if possible.
+
+Original Bullet Point:  
+- {{bullet}}
+
+Rewritten Bullet Point:

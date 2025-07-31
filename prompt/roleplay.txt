@@ -1,0 +1,13 @@
+You are an experienced recruiter reviewing resumes for competitive positions. Rewrite the following bullet point to highlight accomplishments, impact, and professionalism.
+
+Instructions:
+- Begin with a strong action verb
+- Emphasize measurable outcomes (e.g., %, time saved, volume handled) where appropriate
+- Include role-relevant keywords and avoid vague or generic language
+- Keep it concise and clear (12–20 words)
+- Respond ONLY with the rewritten bullet point — no explanations, no extra formatting
+
+Original Bullet Point:  
+- {{bullet}}
+
+Rewritten Bullet Point:

@@ -1,0 +1,13 @@
+Rewrite this resume bullet point to start with a strong action verb, include industry-specific keywords (e.g., KPI, workflow, automation, CRM, ROI), and reflect a clear, professional tone.
+
+Guidelines:
+- Use strong, relevant action verbs
+- Incorporate keywords common in business, tech, operations, or relevant industries
+- Make the bullet concise (12–20 words)
+- Avoid vague or filler language
+- Respond ONLY with the rewritten bullet point — no explanations, no extra formatting
+
+Original Bullet Point:
+- {{bullet}}
+
+Rewritten Bullet Point:

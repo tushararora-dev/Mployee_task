@@ -1,0 +1,6 @@
+• Scheduled appointments, managed emails and calls for senior leadership.
+• Provided end-to-end event logistics and meeting support.
+• Familiarity with audit techniques, processes, and tools.
+• Proficiency in using GST portals for registration, payment, and return filing.
+• Extracted, cleaned & integrated multi-source datasets (Insurance Records, Customer Feedback); performed data profiling & executed sentiment analysis via Power Query to deliver customer-centric insights.
+• Designed & deployed dynamic dashboards using Bar, Line, Ribbon, Donut & Matrix visualizations; implemented Role-Based Security (RLS) & scheduled automated data refresh for real-time, secure reporting.

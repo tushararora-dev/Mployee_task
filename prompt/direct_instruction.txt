@@ -1,0 +1,13 @@
+Rewrite the following resume bullet point to be more professional, concise, and impactful.
+
+Instructions:
+- Start with a strong action verb
+- Highlight key achievements or measurable outcomes if possible
+- Keep it clear, concise (12–20 words), and role-appropriate
+- Avoid vague or generic phrases
+- Respond ONLY with the rewritten bullet point — no explanations or formatting
+
+Original Bullet Point:  
+- {{bullet}}
+
+Rewritten Bullet Point:

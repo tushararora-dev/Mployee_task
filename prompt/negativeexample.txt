@@ -1,0 +1,12 @@
+Avoid writing resume bullets like these:
+- "Did many things in office"
+- "Managed stuff"
+
+These are too vague, lack measurable results, and don't convey real value.
+
+Now, rewrite the following bullet point to be clear, professional, and specific. Use a strong action verb and include measurable impact if possible.
+
+Original Bullet Point:  
+- {{bullet}}
+
+Improved Bullet Point:

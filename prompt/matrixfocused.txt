@@ -1,0 +1,13 @@
+Rewrite this resume bullet point to include a measurable result (e.g., %, time saved, volume handled) and make it achievement-oriented.
+
+Guidelines:
+- Begin with a strong action verb
+- Add quantifiable metrics where possible (even estimated or inferred from context)
+- Highlight results, outcomes, or impact
+- Keep it concise (12–20 words) and professional
+- Respond ONLY with the rewritten bullet point — no explanation, no formatting
+
+Original Bullet Point:
+- {{bullet}}
+
+Rewritten Bullet Point:

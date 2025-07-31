@@ -1,0 +1,13 @@
+You are a resume coach who specializes in data science and analytics resumes. Rewrite the following bullet point to appeal to hiring managers in the analytics field.
+
+Instructions:
+- Use action verbs relevant to data roles (e.g., Analyzed, Modeled, Visualized, Automated)
+- Include domain-specific keywords (e.g., Python, SQL, dashboards, KPIs, predictive models)
+- Add quantifiable outcomes where possible (e.g., time saved, accuracy improved, revenue increased)
+- Keep it concise, professional, and aligned with analytics expectations
+- Respond ONLY with the rewritten bullet point — no extra formatting or explanation
+
+Original Bullet Point:  
+- {{bullet}}
+
+Rewritten Bullet Point:
